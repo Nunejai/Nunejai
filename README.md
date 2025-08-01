@@ -25,7 +25,7 @@ To continuously improve my current skill set, be a valuable team player, and a v
 
 
 # Certifications
-# IBM Full Stack Software Developer Certification
+# IBM Front-End Developer Professional Certificate
 # In process
   1. [Getting Started with Front-End and Web Development](https://www.coursera.org/account/accomplishments/verify/222STQU5ZFF7)
   2. [Introduction to Software Engineering](https://www.coursera.org/account/accomplishments/verify/S6MNCO1TENH5)
