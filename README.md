@@ -5,7 +5,7 @@ I've been learning to code for 7 months.
 I am eager to discover through new experiences. 
 To continuously improve my current skill set, be a valuable team player, and a value to the organization and society I associate myself with.
 
-* 🌍  I'm based in Bangkok
+* 🌍  I'm based in Bangkok.
 * 🌱 I’m currently learning TypeScript.
 * 🔭 I’m currently working on an IBM Front-End Developer Professional Certificate
 * ✉️  You can contact me at [suwarang.j@gmail.com](mailto:suwarang.j@gmail.com)
