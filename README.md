@@ -22,3 +22,24 @@ To continuously improve my current skill set, be a valuable team player, and a v
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Nunejai" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.linkedin.com/in/suwarang-jaisamer/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+
+
+# Certifications
+
+# IBM Full Stack Software Developer Certification
+#
+# In process
+  1. [Getting Started with Front-End and Web Development](https://www.coursera.org/account/accomplishments/verify/222STQU5ZFF7)
+  2. [Introduction to Software Engineering](https://www.coursera.org/account/accomplishments/verify/S6MNCO1TENH5)
+  3. [Designing User Interfaces and Experiences (UI/UX)](https://www.coursera.org/account/accomplishments/verify/37ZC1CVU1YR2)
+  4. [Introduction to HTML & CSS,& JavaScript](https://www.coursera.org/account/accomplishments/verify/IAWKCX1GULRA)
+     - [Final project] [GitHub](https://github.com/Nunejai/SinglePageWebsite) [Live](https://nunejai.github.io/SinglePageWebsite/)
+  6. [Developing Websites and Front-Ends with Bootstrap](https://www.coursera.org/account/accomplishments/verify/XY1WWZP7RX2M)
+     - [Final project] [GitHub](https://github.com/Nunejai/themarbletable) [Live](https://nunejai.github.io/themarbletable/)
+  7. [Getting Started with Git and GitHub](https://www.coursera.org/account/accomplishments/verify/YK4ZPN1GQ8E8)
+  8. [Developing Front-End Apps with React](https://www.coursera.org/account/accomplishments/verify/Z89URDJ6F7AE)
+     - [Final project] [GitHub](https://github.com/Nunejai/e-plantShopping) [Live](https://nunejai.github.io/e-plantShopping/)
+  9. [Intermediate Web and Front-End Development]
+  10. [Get Started with Cloud Native, DevOps, Agile, and NoSQL]
+  11. [Front-End Development Capstone Project]
+  12. [Software Development Career Guide and Interview Preparation](https://www.coursera.org/account/accomplishments/verify/0VVAR9529TU7)
